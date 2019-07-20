@@ -1,0 +1,46 @@
+body{
+    background-color: darkgray;
+    font-family: 'Fredoka One', cursive;
+}
+.container{
+    background-color: slategrey;
+}
+.info{
+    font-family: 'Abril Fatface', cursive;
+}
+.characteristics{
+    text-align: center;
+    font-family: 'Abril Fatface', cursive;
+}
+.size{
+    font-family: 'DM Serif Display', serif;
+    text-align: center;
+}
+.trunks{
+    font-family: 'DM Serif Display', serif;
+    text-align: center;
+}
+.tandm{
+    font-family: 'DM Serif Display', serif;
+    text-align: center;
+}
+.ecology{
+    font-family: 'Abril Fatface', cursive;
+    text-align: center;
+}
+.behaviour{
+    font-family: 'DM Serif Display', serif;
+    text-align: center;
+}
+.diet{
+    font-family: 'DM Serif Display', serif;
+    text-align: center;
+}
+.reproduction{
+    font-family: 'DM Serif Display', serif;
+    text-align: center;
+}
+.threats{
+    font-family: 'DM Serif Display', serif;
+    text-align: center;
+}

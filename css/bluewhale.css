@@ -1,0 +1,27 @@
+body{
+    background-color: lightblue;
+}
+.container{
+    background-color: aliceblue;
+    font-family: 'Luckiest Guy', cursive;
+}
+.header1{
+  font-family: 'Fascinate', cursive;
+    text-align: center;
+}
+.bl{
+    font-family: 'Righteous', cursive;
+
+}
+.blmeals{
+    font-family: 'Righteous', cursive;
+}
+.meals{
+    text-align: left;
+}
+.blfacts{
+    font-family: 'Righteous', cursive;
+}
+.facts{
+    text-align: right;
+}
